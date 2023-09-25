@@ -1,16 +1,36 @@
-### Hi there 👋
+<div align="center" width="50">
+<p><strong>Software Development Engineer</strong></p>
 
-<!--
-**bi5hnoi/bi5hnoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Totals Hits](https://komarev.com/ghpvc/?username=bi5hnoi&style=flat&color=orange&label=PROFILE+VIEWS)
+</div>
 
-Here are some ideas to get you started:
+<hr></hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
+![semicolon](https://img.shields.io/badge/-%3A-orange)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
+![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+
+```dart
+class About extends Me { 
+  const myTools = {  
+    "ProgramingLanguages": { "C", "Java", "JavaScript", "TypeScript", "SQL" },
+    "Database Management": { "PostgreSQL", "MySQL", "MongoDB },
+    "Technologies/Frameworks": { "REST APIs", "GraphQL", "Nodejs", "Nestjs", "Expressjs", "PostMan", "Linux", "Git", "Jira" },
+    "Application Security": { "OWASP Top 10", "Networking", "Cryptography", "Web Application Security", "SecOps", "WAF" },
+  };
+}
+```
+
+-  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently working as **Backend Developer**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I love **JavaScript/TypeScript**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **building anything**. <br>
+
+## ⚡ My contributions
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bi5hnoi&" alt="bi5hnoi" /></p>
