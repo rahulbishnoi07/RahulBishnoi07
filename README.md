@@ -19,17 +19,16 @@
 ```dart
 class About extends Me { 
   const myTools = {  
-    "ProgramingLanguages": { "C", "Java", "JavaScript", "TypeScript", "SQL" },
-    "Database Management": { "PostgreSQL", "MySQL", "MongoDB },
-    "Technologies/Frameworks": { "REST APIs", "GraphQL", "Nodejs", "Nestjs", "Expressjs", "PostMan", "Linux", "Git", "Jira" },
+    "Programming Languages": { "C", "Java", "JavaScript", "TypeScript", "SQL" },
+    "Database Management": { "PostgreSQL", "MySQL", "MongoDB", "Kafka" },
+    "Technologies Frameworks": { "REST APIs", "GraphQL", "Nodejs", "Nestjs", "Expressjs", "Sequelize", "PostMan", "Linux", "Git", "Jira" },
     "Application Security": { "OWASP Top 10", "Networking", "Cryptography", "Web Application Security", "SecOps", "WAF" },
   };
 }
 ```
 
 -  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently working as **Backend Developer**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I love **JavaScript/TypeScript**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **building anything**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I love **Java/JavaScript**. <br>
 
 ## ⚡ My contributions
 
