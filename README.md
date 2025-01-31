@@ -7,7 +7,6 @@
 
 <hr></hr>
 
-![Love](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
